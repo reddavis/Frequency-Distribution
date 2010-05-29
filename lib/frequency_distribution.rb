@@ -1,5 +1,3 @@
-require 'gchart'
-
 class FrequencyDistribution
   def initialize(conditions, *events)
     @conditions = conditions
