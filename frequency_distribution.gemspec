@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "frequency_distribution.gemspec",
      "lib/frequency_distribution.rb",
      "spec/frequency_distribution_spec.rb",
      "spec/spec.opts",
